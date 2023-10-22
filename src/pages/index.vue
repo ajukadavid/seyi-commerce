@@ -1,3 +1,3 @@
 <template>
-    hello e commerce
+    hello e commerce 
 </template>

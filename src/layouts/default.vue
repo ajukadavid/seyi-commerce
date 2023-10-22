@@ -1,5 +1,12 @@
 <template>
-    this is the default layout
 
-    <slot/>
+    <div class="flex flex-col w-full ">
+    
+    <Navbar />
+    <div>
+        <slot/>
+    </div>
+        
+    </div>
+ 
 </template>
