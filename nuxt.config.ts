@@ -20,7 +20,7 @@ export default defineNuxtConfig({
       ],
     },
   },
-  css: ["~/assets/css/main.css"],
+  // css: ["~/assets/css/main.css"],
   srcDir: "src/",
   alias: {
     "class-validator": "class-validator/cjs/index.js",
